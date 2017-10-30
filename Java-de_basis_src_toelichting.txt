@@ -1,0 +1,2 @@
+Deze map bevat per hoofdstuk de Java-bronteksten van de voorbeelden in het boek 'Java, de basis'
+geschreven door Andree Hollander en in 2008 uitgegeven door Pearson Education Benelux (isbn: 978 90 430 1654 4)
